@@ -1,0 +1,24 @@
+
+/* Buttton Blue ~ Submit */
+.btn-blue {
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-blue:link,
+.btn-blue:visited {
+    color: white;
+    background-color: #F15025;
+    /* border: 1.5px solid #009FB7; */
+    border-radius: 3px;
+    padding: 6px 10px;
+    transition: 0.3s;
+}
+.btn-blue:hover,
+.btn-blue:active {
+	
+	color: #F15025;
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 6px 18px;
+}
+
